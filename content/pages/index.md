@@ -8,10 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Join The Best Gens Server!
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      **Alpha Gens** is a slow-paced, grind-focused Minecraft Gens server
+      designed for long-term progression. Players steadily generate resources,
+      upgrade over time, and enjoy a calm, balanced experience centered on
+      patience, strategy, and consistent grinding.
+
     actions:
       - label: Get started
         altText: ''
