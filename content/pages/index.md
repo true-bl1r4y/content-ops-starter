@@ -123,7 +123,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: R
+      - title: Ranks
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
