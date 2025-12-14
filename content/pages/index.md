@@ -188,11 +188,16 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ABOUT ALPHAGENZ
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Alpha Gens is a slow-paced, grind-focused Minecraft Gens server built for
+      long-term progression and fair gameplay. The server is owned and managed
+      by **Sq33d**, focusing on balance, stability, and a consistent player
+      experience.
+
+
+      The official Alpha Gens website is designed and maintained by **MaviMC**,
+      providing players with a clear and modern place to stay informed and
+      connected.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
