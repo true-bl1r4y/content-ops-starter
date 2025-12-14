@@ -15,7 +15,7 @@ sections:
       patience, strategy, and consistent grinding.
 
     actions:
-      - label: Get started
+      - label: Discord
         altText: ''
         url: /
         showIcon: false
