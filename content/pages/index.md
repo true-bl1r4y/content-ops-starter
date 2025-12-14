@@ -214,7 +214,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Coded By MaviMC-
       color: text-primary
       styles:
         self:
