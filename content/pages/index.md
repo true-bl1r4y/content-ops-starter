@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Join The AlphaGenz Server
+      text: 'Join The AlphaGenz Server '
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
