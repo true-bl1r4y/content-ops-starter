@@ -68,10 +68,13 @@ sections:
       - type: FeaturedItem
         title: Active Players
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **Alpha Gens** maintains a steady base of active players who log in
+          daily to grind and progress.
+
+          This consistent activity keeps the economy balanced and the server
+          alive at all times.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
