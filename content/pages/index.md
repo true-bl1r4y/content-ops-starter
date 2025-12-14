@@ -96,10 +96,14 @@ sections:
               borderRadius: x-large
       - title: Members
         subtitle: Our Users
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+
+          Alpha Gens has a growing community of **186 members** supported by a
+          dedicated **14-member staff team**.
+
+          Our staff ensures fair gameplay, active moderation, and a smooth
+          experience for all players.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
