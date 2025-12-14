@@ -130,7 +130,8 @@ sections:
         subtitle: Our Ranks
         text: >
           Our Immense Section Of Ranks Include Staff Ranks like Jr. Mod, Mod,
-          Sr. Mod, Admin and includes user Teams Like Stardust. 
+          Sr. Mod, Admin and includes user Teams Like Stardust. Providing a new
+          atmosphere to AlphaGens
         image:
           url: /images/icon3.svg
           altText: Featured icon three
