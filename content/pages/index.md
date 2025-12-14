@@ -153,7 +153,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: 'IP: alp'
+      label: 'IP: ALPHAGENZ.MINEFORT.COM'
       color: text-primary
       styles:
         self:
