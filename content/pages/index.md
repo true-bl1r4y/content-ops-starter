@@ -32,7 +32,9 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Less Detailed Professional Black White Eagle Logo.jpg
+      url: >-
+        /images/unblurimageai_Less Detailed Professional Black White Eagle
+        Logo.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
